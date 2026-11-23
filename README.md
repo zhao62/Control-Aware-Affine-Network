@@ -3,7 +3,7 @@
 **Control-Aware Affine Network: A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers**
 
 *Congcong Luo, Minghang Zhao\*, Xuyun Fu, Yongjian Zhang, Shisheng Zhong, Song Fu*  
-*Harbin Institute of Technology & Chongqing University*
+*Harbin Institute of Technology*
 
 [![DOI](https://img.shields.io/badge/DOI-10.1080%2F17445302.2026.2748397-blue)](https://doi.org/10.1080/17445302.2026.2748397)
 [![Free PDF](https://img.shields.io/badge/PDF-Accepted_Manuscript-brightgreen)](https://zhao62.github.io/Control-Aware-Affine-Network/Control-Aware-Affine-Network-Luo-2026.pdf)
