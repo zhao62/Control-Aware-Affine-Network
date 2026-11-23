@@ -29,7 +29,8 @@ Crucially, **early structural faults** (e.g., fuel injector nozzle clogging) tri
 * **False Alarms:** Normal transient control actions are misclassified as component degradation.
 * **Missed Early Detections:** Subtle early-stage fault signatures are masked by routine operational micro-adjustments.
 
-<!-- 【在这里拖入论文里的 Fig. 1 截图】 -->
+![Fig. 1. Deceleration maneuver vs. injector nozzle clogging](fig1.png)
+*Fig. 1. Injection mass flow rate of diesel engine: (a)–(b) The diesel engine is slowing down; (c)–(d) Diesel engine injector nozzles clogged to varying degrees.*
 
 Existing **Domain Generalization (DG)** approaches typically treat operating-condition shifts as external disturbances to be passively suppressed. **CAAN** introduces a **control-diagnosis coordination** paradigm that transforms real-time control signals from passive noise into **active calibration mechanisms**.
 
@@ -37,7 +38,8 @@ Existing **Domain Generalization (DG)** approaches typically treat operating-con
 
 ## 🧠 Methodology Overview
 
-<!-- 【在这里拖入论文里的 Fig. 2 截图】 -->
+![Fig. 2. Architecture of the proposed CAAN](fig2.png)
+*Fig. 2. The structure of the proposed CAAN.*
 
 ### 1. Control-Aware Calibration (CAC) Module
 Inspired by feature-wise affine modulation, the CAC module maps real-time control signals (`X_control`, such as shaft angular velocity, cam speed, and cam position) to incremental scaling (`α`) and offset (`β`) factors. By applying an inverse condition-dependent affine transformation (`Y = α ⊙ X_fault + β`), CAC projects raw monitoring features onto a condition-independent health baseline.
