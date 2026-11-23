@@ -1,6 +1,4 @@
-### A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers (CAAN)
-
-**Control-Aware Affine Network: A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers**
+# Control-Aware Affine Network: A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers
 
 *Congcong Luo, Minghang Zhao\*, Xuyun Fu, Yongjian Zhang, Shisheng Zhong, Song Fu*  
 *Harbin Institute of Technology*
