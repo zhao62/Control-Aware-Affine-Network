@@ -1,4 +1,4 @@
-# Control-Aware Affine Network (CAAN)
+### A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers (CAAN)
 
 **Control-Aware Affine Network: A Novel Framework for Reliable Fault Diagnosis of Marine Diesel Engines in Dynamic Maneuvers**
 
