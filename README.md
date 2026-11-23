@@ -88,7 +88,7 @@ If you find this framework or paper useful in your research, please consider cit
 ## 📬 Contact
 
 For academic inquiries or institutional research collaboration, please contact the corresponding author:  
-**Prof. Minghang Zhao** (`zhaomh@hit.edu.cn`), Harbin Institute of Technology.
+**Minghang Zhao** (`zhaomh@hit.edu.cn`), Harbin Institute of Technology.
 
 ---
 
