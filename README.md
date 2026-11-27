@@ -56,7 +56,7 @@ A cosine-similarity orthogonality constraint enforces separation between fault-s
 
 ## 🌐 Key Findings & Cross-Disciplinary Relevance
 
-In the paper, CAAN is evaluated across unseen **out-of-distribution (OOD)** operating regimes (cross-generalization among acceleration, steady-state, and deceleration maneuvers) and compared against representative domain generalization baselines (**CORAL**, **DANN**, **MLDG**, and **GroupDRO**).
+In the paper, CAAN is evaluated across unseen **out-of-distribution (OOD)** operating regimes (cross-generalization among acceleration, steady-state, and deceleration maneuvers).
 
 **Qualitative Takeaways (see full paper for quantitative details & visualizations):**
 * **Superior OOD Generalization:** Jointly leveraging active control calibration and dual-feature decoupling consistently achieves more reliable diagnosis under unseen transient maneuvers than passive domain-alignment baselines.
