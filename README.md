@@ -68,6 +68,12 @@ Although validated on a marine diesel fuel injection system, the **Control-Aware
 
 ---
 
+## 🔗 Related Work in Our Group
+
+* **CA-DANN (Transactions of the Institute of Measurement and Control, 2026):** *Fault diagnosis of marine diesel engine via control-aware domain adversarial network: A control-diagnosis collaboration perspective* — [Project Page & Free PDF](https://zhao62.github.io/Control-Aware-Domain-Adversarial-Network/)
+
+---
+
 ## 📝 Citation
 
 If you find this framework or paper useful in your research, please consider citing:
