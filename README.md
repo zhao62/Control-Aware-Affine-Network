@@ -58,13 +58,10 @@ A cosine-similarity orthogonality constraint enforces separation between fault-s
 
 In the paper, CAAN is evaluated across unseen **out-of-distribution (OOD)** operating regimes (cross-generalization among acceleration, steady-state, and deceleration maneuvers).
 
-**Qualitative Takeaways (see full paper for quantitative details & visualizations):**
-* **Superior OOD Generalization:** Jointly leveraging active control calibration and dual-feature decoupling consistently achieves more reliable diagnosis under unseen transient maneuvers than passive domain-alignment baselines.
+Qualitative Takeaways (see full paper for detailed experiments & visualizations):
+* **Effective OOD Generalization:** Jointly leveraging active control calibration and dual-feature decoupling enables reliable fault diagnosis under unseen transient maneuvers.
 * **Synergy Over Isolation:** Ablation studies confirm that feature decoupling alone struggles to distinguish closely adjacent fault grades under dynamic shifts, whereas integrating control-aware affine calibration is essential for preserving class separability.
 * **Role of Control Dimensionality:** Progressively incorporating multi-dimensional control signals sharpens inter-class cluster boundaries in feature space (as visualized via t-SNE) and reduces confusion between healthy and incipient fault states.
-
-**Who May Find This Work Useful?**  
-Although validated on a marine diesel fuel injection system, the **Control-Aware Affine Calibration** paradigm is broadly applicable to researchers working on **rotating machinery, automotive powertrains, wind turbines, aerospace propulsion, and industrial cyber-physical systems** where control inputs or operating targets (e.g., speed, torque, load, pitch, pressure) induce distribution shifts in sensor signals.
 
 ---
 
