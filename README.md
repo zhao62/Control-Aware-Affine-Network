@@ -67,7 +67,12 @@ Qualitative Takeaways (see full paper for detailed experiments & visualizations)
 
 ## 🔗 Related Work in Our Group
 
+## 🔗 Related Work in Our Group
+
 * **CA-DANN (Transactions of the Institute of Measurement and Control, 2026):** *Fault diagnosis of marine diesel engine via control-aware domain adversarial network: A control-diagnosis collaboration perspective* — [Project Page & Free PDF](https://zhao62.github.io/Control-Aware-Domain-Adversarial-Network/)
+* **TSRF (Measurement, 2025):** *Thermodynamic Simulation-assisted Random Forest: Towards explainable fault diagnosis of combustion chamber components of marine diesel engines* — [Project Page & Free PDF](https://zhao62.github.io/Thermodynamic-Simulation-Assisted-Random-Forest/)
+* **SDTL (Journal of Power Sources, 2025):** *Deep transfer learning enabled online state-of-health estimation of lithium-ion batteries under small samples across different cathode materials, ambient temperature and charge-discharge protocols* — [Project Page & Free PDF](https://zhao62.github.io/SDTL-Battery-SOH/)
+* **BMSFormer (Energy, 2024):** *BMSFormer: An efficient deep learning model for online state-of-health estimation of lithium-ion batteries under high-frequency early SOC data with strong correlated single health indicator* — [Project Page & Free PDF](https://zhao62.github.io/BMSFormer/)
 
 ---
 
