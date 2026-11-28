@@ -17,8 +17,6 @@
 
 > *Copyright Notice: This is an Accepted Manuscript of an article published by Taylor & Francis in Ships and Offshore Structures on 21 Oct 2026, available online: https://doi.org/10.1080/17445302.2026.2748397.*
 
-> **Code & Data Availability Statement:** Due to industrial confidentiality agreements and internal intellectual property protection rules, the proprietary simulation model, datasets, and source code cannot be publicly shared. This page hosts the freely accessible Accepted Manuscript and methodological overview for academic reference.
-
 ---
 
 ## 🔍 Research Problem: Control-Fault Coupling Under Transient Operations
